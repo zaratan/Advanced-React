@@ -23,7 +23,7 @@
     "babel-preset-env": "^1.7.0",
     "dotenv": "6.0.0",
     "graphql-cli": "^2.16.2",
-    "jest-cli": "^23.1.0",
+    "jest-cli": "^29.3.1",
     "nodemon": "1.17.5",
     "prisma": "1.9.0"
   },
